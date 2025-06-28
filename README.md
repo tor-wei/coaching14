@@ -5,7 +5,7 @@ Insertion of Line 4 by wong (amended by Calvin)
 # Testing
 # Code Contributors
 - Calvin
-Insertion of Line 8 by wong(modified)
+Insertion of Line 8 by wong(modified) (amended by wong)
 
 
-test-again
+test-again (amended by wong)
