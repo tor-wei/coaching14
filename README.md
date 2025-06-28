@@ -5,6 +5,4 @@ Insertion of Line 4 by wong
 # Testing
 # Code Contributors
 - Calvin
-
-
-test-conflict
+Insertion of Line 8 by wong
